@@ -1,0 +1,2 @@
+>>> @azure/service-bus
+eslint package.json tsconfig.json src test samples --ext .ts -f node_modules/eslint-detailed-reporter/lib/detailed.js -o service-bus-lintReport.html || exit 0 
